@@ -1,0 +1,101 @@
+supplier_id,supplier_name,country,primary_contact,contact_phone,lead_time_days,minimum_order_qty,reliability_rating
+SUP-1001,Nichols Group,Cook Islands,Kristine Young,496.967.6870,5,500,3.5
+SUP-1002,"Rivera, Campbell and Perez",Falkland Islands (Malvinas),Ross Contreras,(597)811-5831,5,50,4.6
+SUP-1003,Gonzalez Ltd,Burkina Faso,Laura Anderson,662-579-3433,14,50,4.1
+SUP-1004,Floyd-Jimenez,Mexico,Brandy Hill,(581)324-8097,17,500,3.5
+SUP-1005,Lane-Hopkins,Cape Verde,Sharon Clarke,471-862-5521x51016,4,200,4.0
+SUP-1006,"Aguilar, Hunter and Dominguez",Uganda,Julie Sullivan,(804)665-4992x138,7,500,4.3
+SUP-1007,Velazquez-Conway,Djibouti,Miss Jacqueline Gallegos,554-381-7614,3,500,4.1
+SUP-1008,Harvey Inc,Lebanon,Gene Reed,(860)561-6487x27034,19,50,4.6
+SUP-1009,Madden-Adams,Afghanistan,Mark Frye,001-750-990-4002x890,12,500,3.9
+SUP-1010,"Jacobs, Murphy and Santos",Benin,Thomas Mullen,001-435-528-8403x924,20,100,4.9
+SUP-1011,"Love, Ward and Lindsey",Mongolia,Hector Wright,001-258-508-2258,19,200,3.7
+SUP-1012,"Woodward, King and Kelley",Antarctica (the territory South of 60 deg S),David Rodriguez,+1-377-855-2169x3921,4,200,5.0
+SUP-1013,Rodriguez-Ellis,Suriname,Donald Johnson,001-948-952-0132x020,4,50,3.6
+SUP-1014,"Weaver, Figueroa and Roach",Togo,Jaime Pierce,582-208-3935x690,6,200,4.3
+SUP-1015,Hamilton PLC,Belgium,Aaron Brown,001-404-766-0031x017,7,100,3.7
+SUP-1016,"Cooke, Ryan and Kerr",Cape Verde,Rachel Sanchez,793-606-0685x90143,6,500,4.5
+SUP-1017,Jones-Doyle,Chile,Corey Foster,(505)821-9273x819,4,500,4.6
+SUP-1018,Watts Ltd,French Guiana,Garrett Jones,+1-995-874-2053x5279,3,100,3.8
+SUP-1019,Gentry PLC,Comoros,Brianna Nichols,961-424-9398x2058,21,50,3.5
+SUP-1020,Berry LLC,Christmas Island,Kelly Wilkins,376-420-8273x73638,16,200,4.4
+SUP-1021,"Delgado, Doyle and Cortez",Saint Martin,Brittany Weber,329-406-8636x6165,4,500,3.5
+SUP-1022,"Johnson, Wilson and Frank",Saint Helena,Tina Bryant,463.270.3679x4193,18,500,4.0
+SUP-1023,Fowler Ltd,Kyrgyz Republic,Charles Mata,242-264-9095,15,100,3.8
+SUP-1024,Alexander Inc,Azerbaijan,Sierra Gill,871-837-6830,16,50,4.4
+SUP-1025,Mcintyre Inc,Solomon Islands,Kenneth Jimenez,(445)688-8612x645,9,100,4.8
+SUP-1026,Rodriguez LLC,Cote d'Ivoire,Jacqueline Jones,(563)798-9236,12,500,4.4
+SUP-1027,"Rowland, Roberts and Walsh",Swaziland,Daniel Rodriguez,(542)863-3999x6898,15,500,4.0
+SUP-1028,"Smith, Leach and Vasquez",Botswana,Antonio Hughes,583-469-7824,19,50,4.5
+SUP-1029,Harris Inc,Cameroon,Catherine Moore,202-842-5910,14,200,4.4
+SUP-1030,Snyder Ltd,Saint Barthelemy,Ann Perez,(352)801-7398,15,100,4.7
+SUP-1031,Ochoa-Bernard,Bahrain,Cole Nguyen,801-451-4260,8,500,3.6
+SUP-1032,Peters Inc,Cote d'Ivoire,Eric Sheppard,+1-535-328-2523,20,50,3.8
+SUP-1033,"Willis, Hill and Torres",Bangladesh,Robert Davis,(628)296-6607x24646,13,200,4.4
+SUP-1034,Miles-Perez,New Caledonia,Joshua Hernandez,4653744667,4,50,3.9
+SUP-1035,Johnson-Mendoza,Colombia,Joshua Cantu,2633873897,8,200,4.9
+SUP-1036,Ryan-Silva,Falkland Islands (Malvinas),Teresa Mueller,7498103967,21,100,3.6
+SUP-1037,Bowen and Sons,Guatemala,Jessica Perry,581.318.6221x2510,5,50,4.7
+SUP-1038,Williams and Sons,Heard Island and McDonald Islands,James Ford,001-640-675-6929x890,19,100,4.6
+SUP-1039,Williams and Sons,Fiji,Renee Richards,(618)234-3910,6,200,4.7
+SUP-1040,Boyd Group,Spain,Denise George,001-580-702-9381x032,17,500,4.6
+SUP-1041,"Valentine, Hess and Curtis",Aruba,Danielle Fletcher,+1-563-590-7835x887,14,500,3.6
+SUP-1042,"Pennington, Garcia and Howard",Czech Republic,Jeff Thomas,001-907-794-0111x229,18,200,4.5
+SUP-1043,"Harris, Wright and James",Saint Pierre and Miquelon,Michael Martin,684-856-5223x718,12,200,5.0
+SUP-1044,"Jenkins, Mclaughlin and Turner",United States of America,Adam Jones,(824)733-1699x88263,14,100,3.8
+SUP-1045,"Blanchard, Black and Turner",Barbados,Stephen Barron,(864)514-2319x341,8,200,4.6
+SUP-1046,Freeman Inc,Micronesia,Sandra Nelson,+1-415-858-6219x331,5,200,3.6
+SUP-1047,Brown-Hill,Mongolia,Kyle Alvarez,001-669-710-4790x839,11,500,5.0
+SUP-1048,Ruiz-Lewis,Mali,Joseph Noble,508.869.2834,17,100,4.9
+SUP-1049,Sampson-Ramos,Equatorial Guinea,Gregory Griffin,+1-218-288-5696x8053,4,100,4.4
+SUP-1050,Rose PLC,Nigeria,Justin Newton,001-234-444-3941x958,20,500,4.0
+SUP-1051,Ware-Allison,Ethiopia,Manuel Lloyd,(802)507-6611x92950,12,100,4.0
+SUP-1052,"Lucero, Meyer and Smith",Saudi Arabia,Tyler Gould,(269)872-4303,16,50,4.7
+SUP-1053,Marshall-Gilmore,Cocos (Keeling) Islands,Leah Castaneda,749-569-6492x111,14,500,4.2
+SUP-1054,"Evans, Clark and Watson",Aruba,Kirsten Stewart,3735595696,16,50,3.6
+SUP-1055,"Johnson, Paul and Adams",Colombia,Maria Jackson,(556)944-7830x9385,5,100,5.0
+SUP-1056,"Elliott, Summers and Hawkins",Kuwait,Carmen Moreno,(472)539-8127x924,19,50,4.5
+SUP-1057,Lynch-Newman,Antigua and Barbuda,Jimmy Moyer,905-239-9377,7,500,5.0
+SUP-1058,"Hill, Green and Freeman",Tokelau,Deborah Smith,001-206-309-7280x384,4,50,4.6
+SUP-1059,"Bartlett, Moore and Moreno",Malaysia,Justin Garcia,510-646-4729x633,16,50,5.0
+SUP-1060,Hopkins-Lopez,Uganda,Rachel Warner,465-914-8008x08380,17,100,3.6
+SUP-1061,"Adams, Russell and Chandler",Micronesia,Tiffany Perkins,(951)670-4404,4,100,3.9
+SUP-1062,"Lyons, Olson and Ruiz",Serbia,Devin Alexander,(425)875-1678x085,18,500,3.6
+SUP-1063,Ray Group,Western Sahara,Leslie White,3896244184,4,50,4.4
+SUP-1064,Wallace-Stevens,Iraq,Phillip Gilbert,641.659.2750x045,15,500,4.1
+SUP-1065,Stout Inc,Holy See (Vatican City State),Trevor Beck,4046955989,11,50,4.5
+SUP-1066,Allen and Sons,Mexico,Brandon Dalton,(703)298-0192,18,100,4.1
+SUP-1067,Mitchell PLC,Norway,Maria Smith,588.308.9750x950,6,500,4.4
+SUP-1068,"Jones, Alvarez and Blevins",France,Debbie Coleman,(912)758-5183x523,4,200,4.3
+SUP-1069,Adams-Arnold,Venezuela,Dr. Mark Bryant Jr.,796-645-9654,19,500,4.6
+SUP-1070,Nichols Inc,Singapore,Michael Smith,(592)391-8749x54976,4,200,4.2
+SUP-1071,"Cole, Freeman and Foster",Yemen,Tanya Ortiz,4832483712,20,50,4.8
+SUP-1072,Morgan Group,Andorra,Courtney Haas,(688)612-1488,11,100,3.7
+SUP-1073,Ruiz Ltd,Greece,Jerry Lee,(213)488-0545,16,200,4.6
+SUP-1074,Hayes LLC,Niger,Alexandra Alvarado,267-956-5359,11,100,4.5
+SUP-1075,Carr LLC,Czech Republic,Vicki Hunter,001-896-936-4890x426,14,50,4.8
+SUP-1076,Meza-Aguirre,Burundi,Jason Sweeney,630.350.8553,16,500,4.7
+SUP-1077,Reese-Rivera,Cuba,Terry Baker,+1-701-926-6052x8434,16,500,4.3
+SUP-1078,Barron-Walker,Micronesia,Richard Holland,+1-617-903-7694x617,18,500,3.6
+SUP-1079,Garcia-White,New Caledonia,Harold Smith,352.762.8955x853,11,100,4.5
+SUP-1080,"Beltran, Bruce and Hall",Austria,Jessica Edwards,674.705.4741,9,50,3.7
+SUP-1081,"Martinez, Herman and Sanders",Nigeria,Nancy Navarro,473-434-9281,10,500,4.1
+SUP-1082,Nguyen LLC,Sao Tome and Principe,Mrs. Daisy Maynard DDS,852-937-6939x4989,16,50,4.7
+SUP-1083,Perkins-Torres,Kiribati,Michael Sanders,+1-756-348-5134x1070,9,200,4.1
+SUP-1084,Hammond and Sons,Mali,Miranda Logan,(773)549-8740,10,500,4.6
+SUP-1085,"Stevens, Frost and Norris",Turks and Caicos Islands,Nicholas Bennett,7682948738,13,100,4.2
+SUP-1086,Mata Inc,Guadeloupe,Ronald Miller MD,(944)225-4896x3380,14,50,4.1
+SUP-1087,"Smith, Salas and Santos",Russian Federation,Dr. Peter Parks,(475)621-5420x415,10,500,3.7
+SUP-1088,"Hill, Hernandez and Alexander",Qatar,Rebecca Osborne,912-280-3289,15,500,3.7
+SUP-1089,Calhoun PLC,Macao,Michelle Harris,(811)397-3558x999,14,50,3.9
+SUP-1090,Owen-Robinson,Malawi,Erica Pruitt,8495757186,6,500,4.3
+SUP-1091,"Grant, Brown and Mora",Haiti,Daniel Pittman,7398705115,15,100,4.3
+SUP-1092,"Hall, Morris and Garcia",Madagascar,Anthony Allen,(287)621-0734,14,500,4.8
+SUP-1093,Brown-Reyes,Barbados,Garrett Vasquez,751-291-0292,14,500,4.5
+SUP-1094,"Smith, Thompson and Gallagher",North Macedonia,Carla Perez,563-291-7679,3,50,3.9
+SUP-1095,"Campbell, Jordan and White",Estonia,David Mata,642-603-4109x694,11,50,5.0
+SUP-1096,Frey-Holder,Peru,Dr. Jason Meyer MD,001-381-790-7699,10,50,4.9
+SUP-1097,Shepherd PLC,Mexico,Angel Peterson,869-345-2671x17965,6,50,3.7
+SUP-1098,Anderson-Fitzgerald,Slovakia (Slovak Republic),Cathy Moran,+1-924-782-8629x9914,21,100,3.8
+SUP-1099,Clark-Bruce,Saint Lucia,Elizabeth Thomas,(552)584-9775x57124,3,200,4.6
+SUP-1100,Wilson Inc,Cook Islands,John Brock,306.216.7232,8,50,4.8

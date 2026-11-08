@@ -1,0 +1,13 @@
+carrier_name,service_zone,base_shipping_rate,fuel_surcharge_pct,target_sla_days,carrier_contact_email
+FedEx,Domestic-Local,10.95,0.074,2,support@fedex.com
+FedEx,Domestic-Regional,28.17,0.046,5,support@fedex.com
+FedEx,International,42.48,0.071,10,support@fedex.com
+DHL,Domestic-Local,21.44,0.041,2,support@dhl.com
+DHL,Domestic-Regional,13.46,0.059,5,support@dhl.com
+DHL,International,94.27,0.053,10,support@dhl.com
+Aramex,Domestic-Local,28.73,0.053,2,support@aramex.com
+Aramex,Domestic-Regional,12.75,0.02,5,support@aramex.com
+Aramex,International,98.33,0.046,10,support@aramex.com
+UPS,Domestic-Local,29.02,0.031,2,support@ups.com
+UPS,Domestic-Regional,21.74,0.046,5,support@ups.com
+UPS,International,61.79,0.03,10,support@ups.com
